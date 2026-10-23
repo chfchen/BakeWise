@@ -1,0 +1,641 @@
+date,product,produced,leftover,temperature_f,rain,sold_out_early
+2026-06-15,Chocolate Donut,60,0,79.0,0,False
+2026-06-15,Filled Donut,60,5,79.0,0,False
+2026-06-15,Kolache,89,0,79.0,0,True
+2026-06-15,Croissant,34,3,79.0,0,False
+2026-06-15,Breakfast Taco,68,6,79.0,0,False
+2026-06-16,Chocolate Donut,58,17,73.1,1,False
+2026-06-16,Filled Donut,52,5,73.1,1,False
+2026-06-16,Kolache,83,0,73.1,1,True
+2026-06-16,Croissant,32,4,73.1,1,False
+2026-06-16,Breakfast Taco,70,5,73.1,1,False
+2026-06-17,Chocolate Donut,74,16,86.7,1,False
+2026-06-17,Filled Donut,51,0,86.7,1,True
+2026-06-17,Kolache,100,11,86.7,1,False
+2026-06-17,Croissant,34,0,86.7,1,False
+2026-06-17,Breakfast Taco,69,0,86.7,1,False
+2026-06-18,Chocolate Donut,57,0,84.8,0,True
+2026-06-18,Filled Donut,55,2,84.8,0,False
+2026-06-18,Kolache,106,12,84.8,0,False
+2026-06-18,Croissant,35,0,84.8,0,False
+2026-06-18,Breakfast Taco,70,0,84.8,0,True
+2026-06-19,Chocolate Donut,71,12,86.5,1,False
+2026-06-19,Filled Donut,58,6,86.5,1,False
+2026-06-19,Kolache,90,3,86.5,1,False
+2026-06-19,Croissant,34,4,86.5,1,False
+2026-06-19,Breakfast Taco,78,6,86.5,1,False
+2026-06-20,Chocolate Donut,73,1,84.6,1,False
+2026-06-20,Filled Donut,63,1,84.6,1,False
+2026-06-20,Kolache,100,0,84.6,1,True
+2026-06-20,Croissant,44,12,84.6,1,False
+2026-06-20,Breakfast Taco,94,23,84.6,1,False
+2026-06-21,Chocolate Donut,77,0,82.2,0,False
+2026-06-21,Filled Donut,62,0,82.2,0,False
+2026-06-21,Kolache,106,0,82.2,0,False
+2026-06-21,Croissant,42,0,82.2,0,False
+2026-06-21,Breakfast Taco,88,4,82.2,0,False
+2026-06-22,Chocolate Donut,63,0,80.1,0,True
+2026-06-22,Filled Donut,57,7,80.1,0,False
+2026-06-22,Kolache,102,22,80.1,0,False
+2026-06-22,Croissant,37,4,80.1,0,False
+2026-06-22,Breakfast Taco,76,5,80.1,0,False
+2026-06-23,Chocolate Donut,59,0,89.1,0,False
+2026-06-23,Filled Donut,51,0,89.1,0,True
+2026-06-23,Kolache,87,0,89.1,0,True
+2026-06-23,Croissant,33,0,89.1,0,False
+2026-06-23,Breakfast Taco,75,0,89.1,0,False
+2026-06-24,Chocolate Donut,71,3,80.5,0,False
+2026-06-24,Filled Donut,62,0,80.5,0,False
+2026-06-24,Kolache,103,8,80.5,0,False
+2026-06-24,Croissant,36,0,80.5,0,False
+2026-06-24,Breakfast Taco,77,4,80.5,0,False
+2026-06-25,Chocolate Donut,68,3,82.4,0,False
+2026-06-25,Filled Donut,54,4,82.4,0,False
+2026-06-25,Kolache,100,1,82.4,0,False
+2026-06-25,Croissant,36,0,82.4,0,False
+2026-06-25,Breakfast Taco,69,0,82.4,0,True
+2026-06-26,Chocolate Donut,57,0,83.2,1,True
+2026-06-26,Filled Donut,49,1,83.2,1,False
+2026-06-26,Kolache,91,12,83.2,1,False
+2026-06-26,Croissant,36,3,83.2,1,False
+2026-06-26,Breakfast Taco,81,11,83.2,1,False
+2026-06-27,Chocolate Donut,78,9,78.8,0,False
+2026-06-27,Filled Donut,62,0,78.8,0,False
+2026-06-27,Kolache,98,0,78.8,0,True
+2026-06-27,Croissant,40,0,78.8,0,False
+2026-06-27,Breakfast Taco,90,4,78.8,0,False
+2026-06-28,Chocolate Donut,86,25,84.3,1,False
+2026-06-28,Filled Donut,70,4,84.3,1,False
+2026-06-28,Kolache,116,13,84.3,1,False
+2026-06-28,Croissant,41,2,84.3,1,False
+2026-06-28,Breakfast Taco,99,20,84.3,1,False
+2026-06-29,Chocolate Donut,66,3,83.0,0,False
+2026-06-29,Filled Donut,57,3,83.0,0,False
+2026-06-29,Kolache,102,13,83.0,0,False
+2026-06-29,Croissant,37,4,83.0,0,False
+2026-06-29,Breakfast Taco,72,0,83.0,0,False
+2026-06-30,Chocolate Donut,57,8,83.8,1,False
+2026-06-30,Filled Donut,49,0,83.8,1,True
+2026-06-30,Kolache,90,0,83.8,1,True
+2026-06-30,Croissant,37,6,83.8,1,False
+2026-06-30,Breakfast Taco,67,0,83.8,1,True
+2026-07-01,Chocolate Donut,67,3,87.0,0,False
+2026-07-01,Filled Donut,56,0,87.0,0,False
+2026-07-01,Kolache,100,18,87.0,0,False
+2026-07-01,Croissant,38,0,87.0,0,False
+2026-07-01,Breakfast Taco,68,0,87.0,0,True
+2026-07-02,Chocolate Donut,67,8,89.0,0,False
+2026-07-02,Filled Donut,52,0,89.0,0,False
+2026-07-02,Kolache,95,0,89.0,0,True
+2026-07-02,Croissant,35,1,89.0,0,False
+2026-07-02,Breakfast Taco,70,2,89.0,0,False
+2026-07-03,Chocolate Donut,69,7,87.3,1,False
+2026-07-03,Filled Donut,61,11,87.3,1,False
+2026-07-03,Kolache,85,0,87.3,1,True
+2026-07-03,Croissant,35,0,87.3,1,False
+2026-07-03,Breakfast Taco,71,2,87.3,1,False
+2026-07-04,Chocolate Donut,83,6,94.5,0,False
+2026-07-04,Filled Donut,71,10,94.5,0,False
+2026-07-04,Kolache,112,0,94.5,0,False
+2026-07-04,Croissant,39,0,94.5,0,False
+2026-07-04,Breakfast Taco,96,5,94.5,0,False
+2026-07-05,Chocolate Donut,75,0,83.6,0,True
+2026-07-05,Filled Donut,66,0,83.6,0,False
+2026-07-05,Kolache,108,0,83.6,0,True
+2026-07-05,Croissant,40,0,83.6,0,True
+2026-07-05,Breakfast Taco,82,0,83.6,0,True
+2026-07-06,Chocolate Donut,62,11,78.1,1,False
+2026-07-06,Filled Donut,52,5,78.1,1,False
+2026-07-06,Kolache,100,18,78.1,1,False
+2026-07-06,Croissant,40,13,78.1,1,False
+2026-07-06,Breakfast Taco,78,11,78.1,1,False
+2026-07-07,Chocolate Donut,56,1,87.7,0,False
+2026-07-07,Filled Donut,56,0,87.7,0,False
+2026-07-07,Kolache,94,28,87.7,0,False
+2026-07-07,Croissant,33,3,87.7,0,False
+2026-07-07,Breakfast Taco,66,5,87.7,0,False
+2026-07-08,Chocolate Donut,66,0,85.8,0,False
+2026-07-08,Filled Donut,52,0,85.8,0,False
+2026-07-08,Kolache,92,0,85.8,0,False
+2026-07-08,Croissant,36,3,85.8,0,False
+2026-07-08,Breakfast Taco,80,11,85.8,0,False
+2026-07-09,Chocolate Donut,67,4,87.2,0,False
+2026-07-09,Filled Donut,51,0,87.2,0,True
+2026-07-09,Kolache,98,19,87.2,0,False
+2026-07-09,Croissant,35,1,87.2,0,False
+2026-07-09,Breakfast Taco,75,6,87.2,0,False
+2026-07-10,Chocolate Donut,69,11,82.3,1,False
+2026-07-10,Filled Donut,58,15,82.3,1,False
+2026-07-10,Kolache,101,14,82.3,1,False
+2026-07-10,Croissant,37,9,82.3,1,False
+2026-07-10,Breakfast Taco,82,4,82.3,1,False
+2026-07-11,Chocolate Donut,72,8,93.3,1,False
+2026-07-11,Filled Donut,71,12,93.3,1,False
+2026-07-11,Kolache,112,6,93.3,1,False
+2026-07-11,Croissant,43,2,93.3,1,False
+2026-07-11,Breakfast Taco,95,10,93.3,1,False
+2026-07-12,Chocolate Donut,79,2,92.5,0,False
+2026-07-12,Filled Donut,59,0,92.5,0,False
+2026-07-12,Kolache,110,0,92.5,0,False
+2026-07-12,Croissant,44,3,92.5,0,False
+2026-07-12,Breakfast Taco,86,0,92.5,0,True
+2026-07-13,Chocolate Donut,71,0,75.3,0,False
+2026-07-13,Filled Donut,57,1,75.3,0,False
+2026-07-13,Kolache,95,0,75.3,0,True
+2026-07-13,Croissant,35,0,75.3,0,True
+2026-07-13,Breakfast Taco,71,0,75.3,0,True
+2026-07-14,Chocolate Donut,58,0,93.3,0,True
+2026-07-14,Filled Donut,56,11,93.3,0,False
+2026-07-14,Kolache,96,7,93.3,0,False
+2026-07-14,Croissant,31,0,93.3,0,False
+2026-07-14,Breakfast Taco,72,0,93.3,0,True
+2026-07-15,Chocolate Donut,63,5,87.8,1,False
+2026-07-15,Filled Donut,64,6,87.8,1,False
+2026-07-15,Kolache,89,0,87.8,1,False
+2026-07-15,Croissant,31,1,87.8,1,False
+2026-07-15,Breakfast Taco,79,18,87.8,1,False
+2026-07-16,Chocolate Donut,63,6,90.8,1,False
+2026-07-16,Filled Donut,59,12,90.8,1,False
+2026-07-16,Kolache,85,0,90.8,1,True
+2026-07-16,Croissant,37,0,90.8,1,True
+2026-07-16,Breakfast Taco,79,8,90.8,1,False
+2026-07-17,Chocolate Donut,74,11,88.1,0,False
+2026-07-17,Filled Donut,57,0,88.1,0,True
+2026-07-17,Kolache,99,0,88.1,0,False
+2026-07-17,Croissant,33,0,88.1,0,True
+2026-07-17,Breakfast Taco,72,0,88.1,0,False
+2026-07-18,Chocolate Donut,68,0,96.2,1,True
+2026-07-18,Filled Donut,60,2,96.2,1,False
+2026-07-18,Kolache,114,19,96.2,1,False
+2026-07-18,Croissant,40,1,96.2,1,False
+2026-07-18,Breakfast Taco,79,0,96.2,1,False
+2026-07-19,Chocolate Donut,76,0,100.1,0,True
+2026-07-19,Filled Donut,63,0,100.1,0,True
+2026-07-19,Kolache,126,13,100.1,0,False
+2026-07-19,Croissant,43,0,100.1,0,False
+2026-07-19,Breakfast Taco,87,2,100.1,0,False
+2026-07-20,Chocolate Donut,71,8,91.0,0,False
+2026-07-20,Filled Donut,52,5,91.0,0,False
+2026-07-20,Kolache,99,15,91.0,0,False
+2026-07-20,Croissant,32,0,91.0,0,True
+2026-07-20,Breakfast Taco,72,9,91.0,0,False
+2026-07-21,Chocolate Donut,56,3,92.4,0,False
+2026-07-21,Filled Donut,46,0,92.4,0,False
+2026-07-21,Kolache,90,0,92.4,0,False
+2026-07-21,Croissant,35,2,92.4,0,False
+2026-07-21,Breakfast Taco,71,0,92.4,0,False
+2026-07-22,Chocolate Donut,64,0,89.8,0,True
+2026-07-22,Filled Donut,48,0,89.8,0,False
+2026-07-22,Kolache,97,6,89.8,0,False
+2026-07-22,Croissant,41,2,89.8,0,False
+2026-07-22,Breakfast Taco,71,1,89.8,0,False
+2026-07-23,Chocolate Donut,62,7,85.0,1,False
+2026-07-23,Filled Donut,48,7,85.0,1,False
+2026-07-23,Kolache,99,14,85.0,1,False
+2026-07-23,Croissant,36,6,85.0,1,False
+2026-07-23,Breakfast Taco,67,0,85.0,1,False
+2026-07-24,Chocolate Donut,63,0,91.9,0,False
+2026-07-24,Filled Donut,57,0,91.9,0,True
+2026-07-24,Kolache,81,0,91.9,0,True
+2026-07-24,Croissant,38,2,91.9,0,False
+2026-07-24,Breakfast Taco,78,0,91.9,0,False
+2026-07-25,Chocolate Donut,71,0,101.4,0,True
+2026-07-25,Filled Donut,65,0,101.4,0,False
+2026-07-25,Kolache,109,0,101.4,0,True
+2026-07-25,Croissant,38,0,101.4,0,True
+2026-07-25,Breakfast Taco,90,0,101.4,0,False
+2026-07-26,Chocolate Donut,78,2,85.6,0,False
+2026-07-26,Filled Donut,64,0,85.6,0,False
+2026-07-26,Kolache,111,0,85.6,0,True
+2026-07-26,Croissant,40,0,85.6,0,True
+2026-07-26,Breakfast Taco,84,0,85.6,0,True
+2026-07-27,Chocolate Donut,60,0,94.5,0,True
+2026-07-27,Filled Donut,58,2,94.5,0,False
+2026-07-27,Kolache,92,0,94.5,0,True
+2026-07-27,Croissant,37,0,94.5,0,False
+2026-07-27,Breakfast Taco,75,1,94.5,0,False
+2026-07-28,Chocolate Donut,59,0,92.8,0,False
+2026-07-28,Filled Donut,48,0,92.8,0,False
+2026-07-28,Kolache,101,5,92.8,0,False
+2026-07-28,Croissant,36,4,92.8,0,False
+2026-07-28,Breakfast Taco,58,0,92.8,0,True
+2026-07-29,Chocolate Donut,63,0,94.9,0,True
+2026-07-29,Filled Donut,45,0,94.9,0,True
+2026-07-29,Kolache,95,5,94.9,0,False
+2026-07-29,Croissant,34,3,94.9,0,False
+2026-07-29,Breakfast Taco,78,0,94.9,0,False
+2026-07-30,Chocolate Donut,62,2,91.1,1,False
+2026-07-30,Filled Donut,54,3,91.1,1,False
+2026-07-30,Kolache,95,12,91.1,1,False
+2026-07-30,Croissant,35,0,91.1,1,True
+2026-07-30,Breakfast Taco,78,0,91.1,1,True
+2026-07-31,Chocolate Donut,62,6,93.1,0,False
+2026-07-31,Filled Donut,55,10,93.1,0,False
+2026-07-31,Kolache,81,0,93.1,0,True
+2026-07-31,Croissant,38,5,93.1,0,False
+2026-07-31,Breakfast Taco,76,6,93.1,0,False
+2026-08-01,Chocolate Donut,75,0,89.3,0,True
+2026-08-01,Filled Donut,65,4,89.3,0,False
+2026-08-01,Kolache,107,10,89.3,0,False
+2026-08-01,Croissant,39,0,89.3,0,False
+2026-08-01,Breakfast Taco,86,5,89.3,0,False
+2026-08-02,Chocolate Donut,71,0,85.3,0,False
+2026-08-02,Filled Donut,66,0,85.3,0,True
+2026-08-02,Kolache,114,20,85.3,0,False
+2026-08-02,Croissant,43,0,85.3,0,True
+2026-08-02,Breakfast Taco,90,8,85.3,0,False
+2026-08-03,Chocolate Donut,58,11,86.0,1,False
+2026-08-03,Filled Donut,53,3,86.0,1,False
+2026-08-03,Kolache,92,21,86.0,1,False
+2026-08-03,Croissant,32,0,86.0,1,False
+2026-08-03,Breakfast Taco,77,11,86.0,1,False
+2026-08-04,Chocolate Donut,62,0,100.9,0,True
+2026-08-04,Filled Donut,49,0,100.9,0,True
+2026-08-04,Kolache,83,0,100.9,0,True
+2026-08-04,Croissant,31,0,100.9,0,False
+2026-08-04,Breakfast Taco,70,0,100.9,0,True
+2026-08-05,Chocolate Donut,69,9,90.9,0,False
+2026-08-05,Filled Donut,51,0,90.9,0,True
+2026-08-05,Kolache,87,0,90.9,0,True
+2026-08-05,Croissant,34,5,90.9,0,False
+2026-08-05,Breakfast Taco,76,0,90.9,0,True
+2026-08-06,Chocolate Donut,69,0,99.4,0,True
+2026-08-06,Filled Donut,55,0,99.4,0,False
+2026-08-06,Kolache,92,1,99.4,0,False
+2026-08-06,Croissant,34,0,99.4,0,False
+2026-08-06,Breakfast Taco,75,0,99.4,0,False
+2026-08-07,Chocolate Donut,59,0,86.3,0,True
+2026-08-07,Filled Donut,54,0,86.3,0,False
+2026-08-07,Kolache,103,17,86.3,0,False
+2026-08-07,Croissant,33,0,86.3,0,False
+2026-08-07,Breakfast Taco,73,3,86.3,0,False
+2026-08-08,Chocolate Donut,78,0,80.9,0,False
+2026-08-08,Filled Donut,61,0,80.9,0,True
+2026-08-08,Kolache,108,0,80.9,0,False
+2026-08-08,Croissant,39,0,80.9,0,False
+2026-08-08,Breakfast Taco,77,0,80.9,0,True
+2026-08-09,Chocolate Donut,77,8,94.5,1,False
+2026-08-09,Filled Donut,66,5,94.5,1,False
+2026-08-09,Kolache,102,7,94.5,1,False
+2026-08-09,Croissant,42,7,94.5,1,False
+2026-08-09,Breakfast Taco,85,0,94.5,1,True
+2026-08-10,Chocolate Donut,70,0,91.3,0,False
+2026-08-10,Filled Donut,48,0,91.3,0,True
+2026-08-10,Kolache,87,0,91.3,0,True
+2026-08-10,Croissant,37,1,91.3,0,False
+2026-08-10,Breakfast Taco,75,0,91.3,0,True
+2026-08-11,Chocolate Donut,54,0,87.4,1,False
+2026-08-11,Filled Donut,49,0,87.4,1,True
+2026-08-11,Kolache,84,0,87.4,1,True
+2026-08-11,Croissant,30,0,87.4,1,False
+2026-08-11,Breakfast Taco,68,0,87.4,1,False
+2026-08-12,Chocolate Donut,70,0,96.4,0,False
+2026-08-12,Filled Donut,52,0,96.4,0,True
+2026-08-12,Kolache,101,0,96.4,0,False
+2026-08-12,Croissant,32,1,96.4,0,False
+2026-08-12,Breakfast Taco,82,14,96.4,0,False
+2026-08-13,Chocolate Donut,65,0,92.2,0,False
+2026-08-13,Filled Donut,52,0,92.2,0,True
+2026-08-13,Kolache,95,5,92.2,0,False
+2026-08-13,Croissant,31,0,92.2,0,True
+2026-08-13,Breakfast Taco,71,0,92.2,0,True
+2026-08-14,Chocolate Donut,66,4,76.2,1,False
+2026-08-14,Filled Donut,60,16,76.2,1,False
+2026-08-14,Kolache,112,17,76.2,1,False
+2026-08-14,Croissant,32,0,76.2,1,False
+2026-08-14,Breakfast Taco,68,0,76.2,1,True
+2026-08-15,Chocolate Donut,77,6,93.3,0,False
+2026-08-15,Filled Donut,60,0,93.3,0,False
+2026-08-15,Kolache,113,12,93.3,0,False
+2026-08-15,Croissant,39,1,93.3,0,False
+2026-08-15,Breakfast Taco,87,0,93.3,0,True
+2026-08-16,Chocolate Donut,70,0,86.9,0,True
+2026-08-16,Filled Donut,67,6,86.9,0,False
+2026-08-16,Kolache,110,12,86.9,0,False
+2026-08-16,Croissant,41,6,86.9,0,False
+2026-08-16,Breakfast Taco,97,2,86.9,0,False
+2026-08-17,Chocolate Donut,60,0,82.7,0,True
+2026-08-17,Filled Donut,52,0,82.7,0,True
+2026-08-17,Kolache,105,17,82.7,0,False
+2026-08-17,Croissant,32,0,82.7,0,False
+2026-08-17,Breakfast Taco,63,0,82.7,0,True
+2026-08-18,Chocolate Donut,60,0,83.1,0,True
+2026-08-18,Filled Donut,48,0,83.1,0,True
+2026-08-18,Kolache,89,11,83.1,0,False
+2026-08-18,Croissant,30,0,83.1,0,False
+2026-08-18,Breakfast Taco,64,2,83.1,0,False
+2026-08-19,Chocolate Donut,67,0,90.2,0,True
+2026-08-19,Filled Donut,58,0,90.2,0,False
+2026-08-19,Kolache,95,10,90.2,0,False
+2026-08-19,Croissant,32,0,90.2,0,True
+2026-08-19,Breakfast Taco,71,0,90.2,0,False
+2026-08-20,Chocolate Donut,63,0,91.7,1,True
+2026-08-20,Filled Donut,66,27,91.7,1,False
+2026-08-20,Kolache,86,0,91.7,1,True
+2026-08-20,Croissant,38,4,91.7,1,False
+2026-08-20,Breakfast Taco,88,16,91.7,1,False
+2026-08-21,Chocolate Donut,66,3,77.6,1,False
+2026-08-21,Filled Donut,54,8,77.6,1,False
+2026-08-21,Kolache,90,7,77.6,1,False
+2026-08-21,Croissant,42,6,77.6,1,False
+2026-08-21,Breakfast Taco,76,1,77.6,1,False
+2026-08-22,Chocolate Donut,76,0,82.3,0,True
+2026-08-22,Filled Donut,61,0,82.3,0,False
+2026-08-22,Kolache,112,0,82.3,0,True
+2026-08-22,Croissant,45,7,82.3,0,False
+2026-08-22,Breakfast Taco,92,0,82.3,0,True
+2026-08-23,Chocolate Donut,77,9,83.2,1,False
+2026-08-23,Filled Donut,68,7,83.2,1,False
+2026-08-23,Kolache,113,11,83.2,1,False
+2026-08-23,Croissant,44,11,83.2,1,False
+2026-08-23,Breakfast Taco,80,0,83.2,1,True
+2026-08-24,Chocolate Donut,65,0,85.6,0,True
+2026-08-24,Filled Donut,57,4,85.6,0,False
+2026-08-24,Kolache,101,16,85.6,0,False
+2026-08-24,Croissant,33,0,85.6,0,False
+2026-08-24,Breakfast Taco,85,12,85.6,0,False
+2026-08-25,Chocolate Donut,61,9,93.2,1,False
+2026-08-25,Filled Donut,56,1,93.2,1,False
+2026-08-25,Kolache,90,0,93.2,1,True
+2026-08-25,Croissant,35,2,93.2,1,False
+2026-08-25,Breakfast Taco,68,2,93.2,1,False
+2026-08-26,Chocolate Donut,70,2,78.8,1,False
+2026-08-26,Filled Donut,65,14,78.8,1,False
+2026-08-26,Kolache,98,17,78.8,1,False
+2026-08-26,Croissant,35,3,78.8,1,False
+2026-08-26,Breakfast Taco,68,1,78.8,1,False
+2026-08-27,Chocolate Donut,73,9,85.6,0,False
+2026-08-27,Filled Donut,54,2,85.6,0,False
+2026-08-27,Kolache,82,0,85.6,0,True
+2026-08-27,Croissant,34,2,85.6,0,False
+2026-08-27,Breakfast Taco,79,9,85.6,0,False
+2026-08-28,Chocolate Donut,64,1,86.8,1,False
+2026-08-28,Filled Donut,53,1,86.8,1,False
+2026-08-28,Kolache,94,0,86.8,1,True
+2026-08-28,Croissant,35,5,86.8,1,False
+2026-08-28,Breakfast Taco,75,0,86.8,1,True
+2026-08-29,Chocolate Donut,85,7,83.5,0,False
+2026-08-29,Filled Donut,69,2,83.5,0,False
+2026-08-29,Kolache,121,27,83.5,0,False
+2026-08-29,Croissant,42,1,83.5,0,False
+2026-08-29,Breakfast Taco,84,0,83.5,0,True
+2026-08-30,Chocolate Donut,84,12,84.7,1,False
+2026-08-30,Filled Donut,73,17,84.7,1,False
+2026-08-30,Kolache,107,17,84.7,1,False
+2026-08-30,Croissant,43,6,84.7,1,False
+2026-08-30,Breakfast Taco,94,25,84.7,1,False
+2026-08-31,Chocolate Donut,70,5,81.5,0,False
+2026-08-31,Filled Donut,53,0,81.5,0,True
+2026-08-31,Kolache,95,0,81.5,0,True
+2026-08-31,Croissant,37,0,81.5,0,False
+2026-08-31,Breakfast Taco,78,0,81.5,0,True
+2026-09-01,Chocolate Donut,61,10,82.7,1,False
+2026-09-01,Filled Donut,48,0,82.7,1,True
+2026-09-01,Kolache,95,13,82.7,1,False
+2026-09-01,Croissant,35,12,82.7,1,False
+2026-09-01,Breakfast Taco,76,15,82.7,1,False
+2026-09-02,Chocolate Donut,63,0,81.6,0,True
+2026-09-02,Filled Donut,56,4,81.6,0,False
+2026-09-02,Kolache,106,25,81.6,0,False
+2026-09-02,Croissant,34,0,81.6,0,True
+2026-09-02,Breakfast Taco,70,0,81.6,0,True
+2026-09-03,Chocolate Donut,75,5,79.0,0,False
+2026-09-03,Filled Donut,52,0,79.0,0,True
+2026-09-03,Kolache,99,0,79.0,0,True
+2026-09-03,Croissant,37,4,79.0,0,False
+2026-09-03,Breakfast Taco,83,7,79.0,0,False
+2026-09-04,Chocolate Donut,63,1,84.0,0,False
+2026-09-04,Filled Donut,52,0,84.0,0,True
+2026-09-04,Kolache,89,5,84.0,0,False
+2026-09-04,Croissant,30,0,84.0,0,True
+2026-09-04,Breakfast Taco,71,0,84.0,0,True
+2026-09-05,Chocolate Donut,80,2,81.2,0,False
+2026-09-05,Filled Donut,65,0,81.2,0,True
+2026-09-05,Kolache,128,19,81.2,0,False
+2026-09-05,Croissant,43,0,81.2,0,True
+2026-09-05,Breakfast Taco,95,12,81.2,0,False
+2026-09-06,Chocolate Donut,74,2,87.1,1,False
+2026-09-06,Filled Donut,59,0,87.1,1,True
+2026-09-06,Kolache,119,24,87.1,1,False
+2026-09-06,Croissant,40,5,87.1,1,False
+2026-09-06,Breakfast Taco,86,0,87.1,1,False
+2026-09-07,Chocolate Donut,68,1,85.9,1,False
+2026-09-07,Filled Donut,56,0,85.9,1,False
+2026-09-07,Kolache,99,6,85.9,1,False
+2026-09-07,Croissant,40,9,85.9,1,False
+2026-09-07,Breakfast Taco,82,12,85.9,1,False
+2026-09-08,Chocolate Donut,72,12,90.4,0,False
+2026-09-08,Filled Donut,56,3,90.4,0,False
+2026-09-08,Kolache,94,10,90.4,0,False
+2026-09-08,Croissant,33,0,90.4,0,False
+2026-09-08,Breakfast Taco,75,19,90.4,0,False
+2026-09-09,Chocolate Donut,64,0,73.1,0,True
+2026-09-09,Filled Donut,55,0,73.1,0,False
+2026-09-09,Kolache,96,1,73.1,0,False
+2026-09-09,Croissant,35,3,73.1,0,False
+2026-09-09,Breakfast Taco,74,0,73.1,0,False
+2026-09-10,Chocolate Donut,68,0,89.4,0,True
+2026-09-10,Filled Donut,57,1,89.4,0,False
+2026-09-10,Kolache,102,13,89.4,0,False
+2026-09-10,Croissant,36,1,89.4,0,False
+2026-09-10,Breakfast Taco,83,0,89.4,0,False
+2026-09-11,Chocolate Donut,64,4,72.0,0,False
+2026-09-11,Filled Donut,58,8,72.0,0,False
+2026-09-11,Kolache,90,0,72.0,0,True
+2026-09-11,Croissant,36,0,72.0,0,False
+2026-09-11,Breakfast Taco,78,5,72.0,0,False
+2026-09-12,Chocolate Donut,73,0,81.5,0,True
+2026-09-12,Filled Donut,72,11,81.5,0,False
+2026-09-12,Kolache,103,0,81.5,0,True
+2026-09-12,Croissant,44,6,81.5,0,False
+2026-09-12,Breakfast Taco,89,5,81.5,0,False
+2026-09-13,Chocolate Donut,73,0,76.4,0,True
+2026-09-13,Filled Donut,68,4,76.4,0,False
+2026-09-13,Kolache,105,0,76.4,0,True
+2026-09-13,Croissant,42,0,76.4,0,True
+2026-09-13,Breakfast Taco,86,12,76.4,0,False
+2026-09-14,Chocolate Donut,69,10,73.4,0,False
+2026-09-14,Filled Donut,54,2,73.4,0,False
+2026-09-14,Kolache,101,8,73.4,0,False
+2026-09-14,Croissant,39,8,73.4,0,False
+2026-09-14,Breakfast Taco,77,0,73.4,0,True
+2026-09-15,Chocolate Donut,60,7,82.2,1,False
+2026-09-15,Filled Donut,53,5,82.2,1,False
+2026-09-15,Kolache,91,20,82.2,1,False
+2026-09-15,Croissant,33,0,82.2,1,False
+2026-09-15,Breakfast Taco,81,19,82.2,1,False
+2026-09-16,Chocolate Donut,63,2,77.4,0,False
+2026-09-16,Filled Donut,59,0,77.4,0,True
+2026-09-16,Kolache,108,14,77.4,0,False
+2026-09-16,Croissant,34,4,77.4,0,False
+2026-09-16,Breakfast Taco,83,5,77.4,0,False
+2026-09-17,Chocolate Donut,66,12,74.6,0,False
+2026-09-17,Filled Donut,53,0,74.6,0,False
+2026-09-17,Kolache,99,0,74.6,0,True
+2026-09-17,Croissant,39,1,74.6,0,False
+2026-09-17,Breakfast Taco,73,5,74.6,0,False
+2026-09-18,Chocolate Donut,62,0,86.0,1,True
+2026-09-18,Filled Donut,54,13,86.0,1,False
+2026-09-18,Kolache,105,11,86.0,1,False
+2026-09-18,Croissant,34,0,86.0,1,False
+2026-09-18,Breakfast Taco,75,4,86.0,1,False
+2026-09-19,Chocolate Donut,75,5,68.7,0,False
+2026-09-19,Filled Donut,67,1,68.7,0,False
+2026-09-19,Kolache,117,21,68.7,0,False
+2026-09-19,Croissant,43,0,68.7,0,False
+2026-09-19,Breakfast Taco,88,21,68.7,0,False
+2026-09-20,Chocolate Donut,79,5,87.6,1,False
+2026-09-20,Filled Donut,61,0,87.6,1,True
+2026-09-20,Kolache,105,0,87.6,1,True
+2026-09-20,Croissant,44,5,87.6,1,False
+2026-09-20,Breakfast Taco,90,15,87.6,1,False
+2026-09-21,Chocolate Donut,72,9,77.1,1,False
+2026-09-21,Filled Donut,59,18,77.1,1,False
+2026-09-21,Kolache,89,4,77.1,1,False
+2026-09-21,Croissant,35,0,77.1,1,False
+2026-09-21,Breakfast Taco,70,2,77.1,1,False
+2026-09-22,Chocolate Donut,56,0,71.7,0,False
+2026-09-22,Filled Donut,58,7,71.7,0,False
+2026-09-22,Kolache,92,20,71.7,0,False
+2026-09-22,Croissant,32,2,71.7,0,False
+2026-09-22,Breakfast Taco,65,0,71.7,0,True
+2026-09-23,Chocolate Donut,66,9,78.4,0,False
+2026-09-23,Filled Donut,50,0,78.4,0,True
+2026-09-23,Kolache,89,0,78.4,0,True
+2026-09-23,Croissant,35,0,78.4,0,False
+2026-09-23,Breakfast Taco,75,4,78.4,0,False
+2026-09-24,Chocolate Donut,68,0,75.7,0,True
+2026-09-24,Filled Donut,49,0,75.7,0,True
+2026-09-24,Kolache,92,5,75.7,0,False
+2026-09-24,Croissant,33,0,75.7,0,False
+2026-09-24,Breakfast Taco,83,14,75.7,0,False
+2026-09-25,Chocolate Donut,62,3,69.2,0,False
+2026-09-25,Filled Donut,50,0,69.2,0,True
+2026-09-25,Kolache,103,4,69.2,0,False
+2026-09-25,Croissant,32,0,69.2,0,False
+2026-09-25,Breakfast Taco,72,0,69.2,0,False
+2026-09-26,Chocolate Donut,73,0,68.2,1,True
+2026-09-26,Filled Donut,64,5,68.2,1,False
+2026-09-26,Kolache,112,19,68.2,1,False
+2026-09-26,Croissant,40,3,68.2,1,False
+2026-09-26,Breakfast Taco,86,5,68.2,1,False
+2026-09-27,Chocolate Donut,73,0,76.2,0,False
+2026-09-27,Filled Donut,62,0,76.2,0,False
+2026-09-27,Kolache,116,0,76.2,0,True
+2026-09-27,Croissant,43,4,76.2,0,False
+2026-09-27,Breakfast Taco,82,0,76.2,0,True
+2026-09-28,Chocolate Donut,64,21,73.1,0,False
+2026-09-28,Filled Donut,54,9,73.1,0,False
+2026-09-28,Kolache,89,0,73.1,0,True
+2026-09-28,Croissant,34,0,73.1,0,True
+2026-09-28,Breakfast Taco,72,0,73.1,0,True
+2026-09-29,Chocolate Donut,66,11,74.1,0,False
+2026-09-29,Filled Donut,49,0,74.1,0,False
+2026-09-29,Kolache,89,0,74.1,0,True
+2026-09-29,Croissant,28,0,74.1,0,False
+2026-09-29,Breakfast Taco,70,0,74.1,0,False
+2026-09-30,Chocolate Donut,76,11,64.2,1,False
+2026-09-30,Filled Donut,51,0,64.2,1,False
+2026-09-30,Kolache,96,2,64.2,1,False
+2026-09-30,Croissant,38,4,64.2,1,False
+2026-09-30,Breakfast Taco,70,10,64.2,1,False
+2026-10-01,Chocolate Donut,63,0,77.6,0,False
+2026-10-01,Filled Donut,55,1,77.6,0,False
+2026-10-01,Kolache,89,0,77.6,0,True
+2026-10-01,Croissant,33,0,77.6,0,False
+2026-10-01,Breakfast Taco,78,13,77.6,0,False
+2026-10-02,Chocolate Donut,58,0,72.9,0,False
+2026-10-02,Filled Donut,52,0,72.9,0,True
+2026-10-02,Kolache,96,3,72.9,0,False
+2026-10-02,Croissant,34,3,72.9,0,False
+2026-10-02,Breakfast Taco,71,0,72.9,0,True
+2026-10-03,Chocolate Donut,75,13,82.9,0,False
+2026-10-03,Filled Donut,68,6,82.9,0,False
+2026-10-03,Kolache,108,0,82.9,0,False
+2026-10-03,Croissant,45,1,82.9,0,False
+2026-10-03,Breakfast Taco,87,0,82.9,0,True
+2026-10-04,Chocolate Donut,76,0,78.5,0,False
+2026-10-04,Filled Donut,60,0,78.5,0,True
+2026-10-04,Kolache,98,0,78.5,0,True
+2026-10-04,Croissant,44,3,78.5,0,False
+2026-10-04,Breakfast Taco,80,0,78.5,0,True
+2026-10-05,Chocolate Donut,60,5,72.0,1,False
+2026-10-05,Filled Donut,48,0,72.0,1,False
+2026-10-05,Kolache,87,16,72.0,1,False
+2026-10-05,Croissant,36,6,72.0,1,False
+2026-10-05,Breakfast Taco,73,5,72.0,1,False
+2026-10-06,Chocolate Donut,59,2,67.3,1,False
+2026-10-06,Filled Donut,52,5,67.3,1,False
+2026-10-06,Kolache,94,13,67.3,1,False
+2026-10-06,Croissant,32,0,67.3,1,False
+2026-10-06,Breakfast Taco,67,12,67.3,1,False
+2026-10-07,Chocolate Donut,58,0,71.9,0,True
+2026-10-07,Filled Donut,54,11,71.9,0,False
+2026-10-07,Kolache,80,0,71.9,0,True
+2026-10-07,Croissant,35,0,71.9,0,True
+2026-10-07,Breakfast Taco,79,6,71.9,0,False
+2026-10-08,Chocolate Donut,61,0,72.7,0,False
+2026-10-08,Filled Donut,48,0,72.7,0,True
+2026-10-08,Kolache,89,0,72.7,0,True
+2026-10-08,Croissant,35,4,72.7,0,False
+2026-10-08,Breakfast Taco,79,11,72.7,0,False
+2026-10-09,Chocolate Donut,60,0,62.2,0,False
+2026-10-09,Filled Donut,56,0,62.2,0,False
+2026-10-09,Kolache,88,0,62.2,0,True
+2026-10-09,Croissant,38,0,62.2,0,False
+2026-10-09,Breakfast Taco,82,11,62.2,0,False
+2026-10-10,Chocolate Donut,81,18,73.1,1,False
+2026-10-10,Filled Donut,62,5,73.1,1,False
+2026-10-10,Kolache,121,10,73.1,1,False
+2026-10-10,Croissant,39,3,73.1,1,False
+2026-10-10,Breakfast Taco,89,1,73.1,1,False
+2026-10-11,Chocolate Donut,70,4,67.5,0,False
+2026-10-11,Filled Donut,58,0,67.5,0,True
+2026-10-11,Kolache,111,4,67.5,0,False
+2026-10-11,Croissant,43,6,67.5,0,False
+2026-10-11,Breakfast Taco,89,0,67.5,0,True
+2026-10-12,Chocolate Donut,59,0,68.8,0,True
+2026-10-12,Filled Donut,54,0,68.8,0,False
+2026-10-12,Kolache,95,0,68.8,0,False
+2026-10-12,Croissant,35,6,68.8,0,False
+2026-10-12,Breakfast Taco,85,9,68.8,0,False
+2026-10-13,Chocolate Donut,63,2,72.1,0,False
+2026-10-13,Filled Donut,57,4,72.1,0,False
+2026-10-13,Kolache,97,0,72.1,0,False
+2026-10-13,Croissant,30,0,72.1,0,False
+2026-10-13,Breakfast Taco,72,0,72.1,0,True
+2026-10-14,Chocolate Donut,74,7,73.1,0,False
+2026-10-14,Filled Donut,54,2,73.1,0,False
+2026-10-14,Kolache,86,0,73.1,0,True
+2026-10-14,Croissant,37,3,73.1,0,False
+2026-10-14,Breakfast Taco,78,0,73.1,0,True
+2026-10-15,Chocolate Donut,63,4,64.5,0,False
+2026-10-15,Filled Donut,49,1,64.5,0,False
+2026-10-15,Kolache,92,0,64.5,0,True
+2026-10-15,Croissant,38,0,64.5,0,False
+2026-10-15,Breakfast Taco,68,0,64.5,0,False
+2026-10-16,Chocolate Donut,60,0,63.7,0,True
+2026-10-16,Filled Donut,53,0,63.7,0,False
+2026-10-16,Kolache,107,20,63.7,0,False
+2026-10-16,Croissant,31,1,63.7,0,False
+2026-10-16,Breakfast Taco,78,4,63.7,0,False
+2026-10-17,Chocolate Donut,84,20,63.5,0,False
+2026-10-17,Filled Donut,63,0,63.5,0,False
+2026-10-17,Kolache,104,0,63.5,0,False
+2026-10-17,Croissant,40,1,63.5,0,False
+2026-10-17,Breakfast Taco,90,0,63.5,0,True
+2026-10-18,Chocolate Donut,79,3,59.6,0,False
+2026-10-18,Filled Donut,66,3,59.6,0,False
+2026-10-18,Kolache,110,8,59.6,0,False
+2026-10-18,Croissant,42,3,59.6,0,False
+2026-10-18,Breakfast Taco,91,11,59.6,0,False
+2026-10-19,Chocolate Donut,72,5,67.5,1,False
+2026-10-19,Filled Donut,63,17,67.5,1,False
+2026-10-19,Kolache,94,7,67.5,1,False
+2026-10-19,Croissant,37,9,67.5,1,False
+2026-10-19,Breakfast Taco,81,8,67.5,1,False
+2026-10-20,Chocolate Donut,53,0,69.6,1,False
+2026-10-20,Filled Donut,56,13,69.6,1,False
+2026-10-20,Kolache,83,0,69.6,1,True
+2026-10-20,Croissant,31,3,69.6,1,False
+2026-10-20,Breakfast Taco,78,9,69.6,1,False
