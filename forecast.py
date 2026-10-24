@@ -1,4 +1,4 @@
-"""Transparent per-product demand forecasts for the BakeWise MVP."""
+"""  demand forecasts for the BakeWise """
 from __future__ import annotations
 
 from datetime import date
@@ -10,7 +10,6 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 FEATURES = ["weekday", "holiday", "temperature_f", "rain", "day_index"]
-
 
 def validate_sales(frame: pd.DataFrame) -> pd.DataFrame:
     required = {"date", "product", "produced", "leftover", "temperature_f", "rain"}
